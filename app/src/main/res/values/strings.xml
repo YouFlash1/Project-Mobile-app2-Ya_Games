@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ya Games</string>
+    <string name="score_0">Score: 0</string>
+    <string name="start">Start</string>
+
+    <string name="red_button">Red Button</string>
+    <string name="green_button">Green Button</string>
+    <string name="blue_button">Blue Button</string>
+    <string name="yellow_button">Yellow Button</string>
+</resources>
